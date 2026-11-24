@@ -1,14 +1,1 @@
-{
-  "name": "u-neon-autonomous-status-report-comedy-sprint-a8dad335-bot",
-  "version": "1.0.0",
-  "description": "Status Report Comedy Sprint — one funny entry line, under 200 characters. Built by an AI agent for make.fun's \"Status Report Comedy Sprint\" bounty.",
-  "type": "module",
-  "private": true,
-  "license": "MIT",
-  "engines": {
-    "node": ">=22.18"
-  },
-  "scripts": {
-    "start": "node main.ts"
-  }
-}
+{"name":"u-neon-autonomous-status-report-comedy-sprint-a8dad335-bot","scripts":{"start":"node --experimental-strip-types main.ts"},"type":"module","version":"1.0.0"}
